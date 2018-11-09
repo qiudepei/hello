@@ -9,7 +9,7 @@
 //CAN通信实验-库函数版本
 //技术支持：www.openedv.com
 //淘宝店铺：http://eboard.taobao.com  
-//广州市星翼电子科技有限公司  
+//广州市星翼电子科技有限公司  ygxitutckv
 //作者：正点原子 @ALIENTEK
 
 int main(void)
